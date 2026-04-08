@@ -280,6 +280,12 @@ This project is released for academic and research purposes.
 
 ---
 
+## Zenodo DOI
+ The DOI link is as given below
+     https://doi.org/10.5281/zenodo.19474429
+
+---     
+
 ## Citation
 
 If you use this work, please cite:
